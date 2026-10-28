@@ -1,0 +1,32 @@
+﻿[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+UserSettings/
+[Bb]uild/
+[Bb]uilds/
+.env
+.env.*
+!.env.example
+
+# Installer and temporary extracted files
+GitHubDesktopSetup-x64.exe
+_extracted_scripts/
+files (4).zip
+
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+UserSettings/
+.vs/
+
+# Build output
+[Bb]uild/
+[Bb]uilds/
+
+# Secrets
+.env
+.env.*
+!.env.example
